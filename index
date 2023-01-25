@@ -4,12 +4,23 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap" rel="stylesheet">
     <title> Petita Bio </title
   </head>
   <body>
-    <p> **Anthony Emerson Huaman Diaz (2006-infinit) a neixer a Perú, però actualment viu a Catalunya.**</p>
-    <p> A dia d'avui és un estudiant de 1er de Batxillerat del Institut de Taradell, i esta estudiant </p>
-    <p> el batxillerat tecnologic. Com "hobby" té els videojocs i el dibuix. </p>
-   
+
+    <p class="biografia"> 
+      Anthony Emerson Huaman Diaz (2006-infinit) a neixer a Perú, però actualment viu a Catalunya.
+      A dia d'avui és un estudiant de 1er de Batxillerat del Institut de Taradell, i esta estudiant
+      el batxillerat tecnologic. Com "hobby" té els videojocs i el dibuix. 
+    </p>
+
+    <style> 
+    .biografia { font-family: 'Coming Soon', cursive; } 
+    </style>
+
   </body>
+
 </html>
