@@ -1,13 +1,15 @@
 @@ -0,0 +1,11 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="ca">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>Hola </title
-      
+    <title> Petita Bio </title
   </head>
   <body>
-    <p>Què veus tonto, ves cap allà</p>
+    <p> **Anthony Emerson Huaman Diaz (2006-infinit) a neixer a Perú, però actualment viu a Catalunya.**</p>
+    <p> A dia d'avui és un estudiant de 1er de Batxillerat del Institut de Taradell, i esta estudiant </p>
+    <p> el batxillerat tecnologic. Com "hobby" té els videojocs i el dibuix. </p>
+   
   </body>
 </html>
