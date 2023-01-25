@@ -10,11 +10,12 @@
 <link href="https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap" rel="stylesheet">
 
 <font size="20"> <title> Petita Bio </title> </font>
-
+<font color="purple"> Petita Bio </font>
+<font size="14"> .Biografia </font>
+<font color="green"> .Biografia </font>
   </head>
 
   <body>
-    <font size="20"> <title> Petita Bio </title> </font>
 
     <p class="Biografia"> 
       Anthony Emerson Huaman Diaz (2006-infinit) a neixer a Perú, però actualment viu a Catalunya.
