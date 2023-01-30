@@ -1,5 +1,11 @@
-.parragraf-1{
+.h1{
     color: aqua;
-    font: 20;
+    font: 25;
+    text-align: center;
+}
+
+.p{
+    color:darkorchid;
+    font: 15;
     text-align: center;
 }
