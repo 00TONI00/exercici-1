@@ -1,11 +1,13 @@
+<!--títul-->
 .h1{
     color: aqua;
     font: 25;
     text-align: center;
 }
 
+<!--parragraf-1-->
 .p{
     color:darkorchid;
     font: 15;
-    text-align: center;
+    text-align:inherit;
 }
